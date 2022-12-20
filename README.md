@@ -1,2 +1,19 @@
 # Real-Life-Human-Counting-System
-Second Year PBL Project-->Made this project keeping in mind covid protocols and tried to implement a application which can keep the person count stable.
+Before starting the project,make sure you have certain libraries install by typing these commands in the terminal : 
+
+### `pip install opencv-python`
+
+### `pip install random2`
+
+### `pip install persons`
+
+### `pip install times`
+
+### `pip install numpy`
+
+### `pip install imutils`
+
+### `pip install argparse`
+
+
+
